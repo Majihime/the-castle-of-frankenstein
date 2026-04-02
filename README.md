@@ -12,6 +12,10 @@ A short Choose Your Own Adventure/Interactive Fiction story made in Twine (HTML 
 
 ---
 
+## How to Play
+- To play directly in your browser: https://wingsofathena.itch.io/the-castle-of-frankenstein
+- To download, visit releases
+
 ### Credits
 - Made with Twine (Sugarcube): https://twinery.org/
 - Classical music from: https://www.classicals.de/beethoven-piano-sonata-no-14
