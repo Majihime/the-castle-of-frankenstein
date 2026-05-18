@@ -8,7 +8,7 @@ A short Choose Your Own Adventure/Interactive Fiction story made in Twine (HTML 
 - Fully remade for 2026 (Old revisions of game removed, contact me if you want the old version.)
 ---
 ## Screenshot
-![Screenshot](https://raw.githubusercontent.com/Majihime/The-Castle-Of-Frankenstein-Game/main/images/title.png)
+![Screenshot](https://raw.githubusercontent.com/Majihime/The-Castle-of-Frankenstein/main/images/title.png)
 
 ---
 
