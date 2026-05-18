@@ -9,7 +9,7 @@ A short Choose Your Own Adventure/Interactive Fiction story made in Twine (HTML 
 ---
 
 ## Screenshot
-![Screenshot](https://raw.githubusercontent.com/Majihime/The-Castle-Of-Frankenstein-Game/refs/heads/main/images/title.png)
+![Screenshot](https://raw.githubusercontent.com/Majihime/The-Castle-Of-Frankenstein-Game/refs/heads/main/images/title.png?token=GHSAT0AAAAAADWCUJNY4ZWTNFXYDRV55COI2QLQRFA)
 
 ---
 
