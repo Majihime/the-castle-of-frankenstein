@@ -5,6 +5,7 @@ A short Choose Your Own Adventure/Interactive Fiction story made in Twine (HTML 
 - Original ASCII Art
 - Autosave feature
 - Audio Engine with looping music
+- Fully remade for 2026
 ---
 
 ## Screenshot
